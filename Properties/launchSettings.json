@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ASPICE_Report_Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\dpalyov\\source\\repos\\ASPICEDynamicReportBuilder\\ASPICE_Report_Generator\\bin\\Debug\\netcoreapp3.0\\appSettings.json C:\\Users\\dpalyov\\source\\repos\\ASPICEDynamicReportBuilder\\ASPICE_Report_Generator\\bin\\Debug\\netcoreapp3.0\\query.sql"
+    }
+  }
+}

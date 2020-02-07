@@ -1,0 +1,18 @@
+{
+    "Configuration":{
+        "Logging":{
+            "LogLevel":{
+                "Default":"Debug"
+            }
+        },
+        "SMTP":{
+            "Host": "vistsmtp.visteon.com",
+            "Port": "25",
+            "UseDefaultCredentials": "true",
+            "Credentials": {
+                "Username": "",
+                "Password": ""
+              }
+        }
+    }
+}
